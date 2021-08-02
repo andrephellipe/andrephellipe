@@ -5,7 +5,8 @@
 
 - 💻 Oi, sou apaixonado por tecnologia e desenvolvimento. Graduado em Análise e Desenvolvimento de Sistemas. 
 - 🌱 No momento estou focado desenvolvendo meus conhecimentos em: <br> Java | Rest API | Spring | Data Base SQL | Html | CSS | ReactJS | AngularJS </br>
-- 📫 Você pode entrar em contato comigo através do LinkedIn: https://www.linkedin.com/in/andrephellipe/ ou pelo email: andre.eter.10@gmail.com
+
+##
 
 <h2 align="left">Linguagens e Ferramentas:</h2>
 
@@ -62,5 +63,6 @@
 <br>
 
 ![Snake animation](https://github.com/andrephellipe/andrephellipe/blob/output/github-contribution-grid-snake.svg)
+
 #
 <h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> </h3>
