@@ -21,23 +21,20 @@
 
 ##
 
-
 <details open="">
 <summary>
    <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
    Estatísticas do Github : 
-</summary>
-   
+</summary> 
 <br>
-    
- <div>
+<div>
   <a href="https://github.com/andrephellipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrephellipe&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrephellipe&layout=compact&langs_count=7"/></a>
 </div>
 <br>
-<img src="https://komarev.com/ghpvc/?username=andrephellipe&color=green" alt="andrephellipe"/>    
- </details>
+   <img src="https://komarev.com/ghpvc/?username=andrephellipe&color=green" alt="andrephellipe"/>    
+</details>
  
 ##    
      
@@ -49,8 +46,12 @@
 </h2>
 
 <div>
- <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:andre.eter.10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andrephellipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5583988712662&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/G9GPg5SA75" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"</a> 
+ <a href = "mailto:andre.eter.10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/andrephellipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://api.whatsapp.com/send?phone=5583988712662&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 </div>   
