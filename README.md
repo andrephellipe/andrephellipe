@@ -1,10 +1,17 @@
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+
+
 <h1> Olá! eu sou André Felipe. <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
+ 
 <img align="right" width="30%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
 
 <h2> Sobre mim </h2>
 
 - 💻 Oi, sou apaixonado por tecnologia e desenvolvimento. Graduado em Análise e Desenvolvimento de Sistemas. 
-- 🔭 No momento estou focado desenvolvendo meus conhecimentos em: <br> Java | Rest API | Spring | Data Base SQL | Html | CSS | ReactJS | AngularJS </br>
+- 🔭 No momento estou focado desenvolvendo meus conhecimentos em: <br> Java | Spring Framework | Banco de dados Relacionais </br>
 
 ##
 
