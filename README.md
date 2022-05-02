@@ -11,7 +11,7 @@
 <h2> Sobre mim </h2>
 
 - 💻 Oi, sou apaixonado por tecnologia e desenvolvimento. Graduado em Análise e Desenvolvimento de Sistemas. 
-- 🔭 No momento estou focado desenvolvendo meus conhecimentos em: <br> Java | Spring Framework | Banco de dados Relacionais </br>
+- 🔭 No momento estou focado desenvolvendo meus conhecimentos em: <br> Java | Rest API | Spring | Data Base SQL | HTML | CSS | ReactJS | Angular | Git </br>
 
 ##
 
