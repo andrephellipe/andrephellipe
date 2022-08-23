@@ -10,7 +10,7 @@
 
 <h2> Sobre mim </h2>
 
-- 💻 Oi, sou apaixonado por tecnologia e desenvolvimento. Graduado em Análise e Desenvolvimento de Sistemas. 
+- 💻 Oi, Sou formado em Análise e desenvolvimento de sistemas (ESTÁCIO) e estudante da segunda graduação em Desenvolvimento Back-end (UNOPAR), trabalhei por 11 anos com telecomunicações e após muito esforço e estudos consegui a tão sonhada transição de carreira para TI. 🚀
 - 🔭 No momento estou focado desenvolvendo meus conhecimentos em: <br> Java | Rest API | Spring | Data Base SQL | HTML | CSS | ReactJS | Angular | Git </br>
 
 ##
